@@ -67,7 +67,7 @@
         <mxCell id="e9U0abkdqi3mbfvJPGBw-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e9U0abkdqi3mbfvJPGBw-37" target="e9U0abkdqi3mbfvJPGBw-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e9U0abkdqi3mbfvJPGBw-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9U0abkdqi3mbfvJPGBw-41" target="e9U0abkdqi3mbfvJPGBw-47">
+        <mxCell id="e9U0abkdqi3mbfvJPGBw-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9U0abkdqi3mbfvJPGBw-41" target="e9U0abkdqi3mbfvJPGBw-47">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="e9U0abkdqi3mbfvJPGBw-41" value="Send Verdict" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -76,7 +76,7 @@
         <mxCell id="e9U0abkdqi3mbfvJPGBw-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="e9U0abkdqi3mbfvJPGBw-41" target="e9U0abkdqi3mbfvJPGBw-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="e9U0abkdqi3mbfvJPGBw-47" value="Record Verdict" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="e9U0abkdqi3mbfvJPGBw-47" value="Record Verdict and Trial Date" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="510" y="430" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="e9U0abkdqi3mbfvJPGBw-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="e9U0abkdqi3mbfvJPGBw-50" target="e9U0abkdqi3mbfvJPGBw-30">
